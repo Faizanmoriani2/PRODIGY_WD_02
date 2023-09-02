@@ -1,0 +1,29 @@
+.stopwatch{
+  padding: 20px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* background-color: rgb(109, 156, 39); */
+  background: linear-gradient(45deg, #007bff, #00cc99);
+}
+
+.btn {
+  margin: 5px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+  padding: 5px;
+  border: 1px solid #ccc;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
