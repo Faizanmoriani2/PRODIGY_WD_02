@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# PRODIGY_WD_02
+As part of virtual internship, Task 02 focuses on building a React-based Stopwatch application, a common utility that can be used for measuring elapsed time. The application should feature essential functionalities such as starting, stopping, resetting, and displaying the elapsed time.
